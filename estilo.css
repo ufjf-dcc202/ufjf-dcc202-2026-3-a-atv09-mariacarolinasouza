@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    padding: 0;
 
 }
 
@@ -23,4 +24,4 @@ main>article {
 h1 {
     background-color: plum;
     color: white;
-}
+} 
