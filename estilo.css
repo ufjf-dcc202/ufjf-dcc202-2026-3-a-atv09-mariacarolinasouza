@@ -1,5 +1,26 @@
+body {
+    margin: 0;
+
+}
+
+main {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+}
+
 main>article {
-    border: 1px solid red;
+    border: 1px solid pink;
     resize: both;
-    overflow: scroll;
+    overflow: auto;
+}
+
+main>article {
+    display: grid;
+    place-items: center;
+}
+
+h1 {
+    background-color: plum;
+    color: white;
 }
